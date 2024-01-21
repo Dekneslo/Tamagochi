@@ -1,0 +1,13 @@
+C:\Users\Marsh\source\repos\Test1712\Test1712\bin\Debug\netcoreapp3.1\Test1712.exe
+C:\Users\Marsh\source\repos\Test1712\Test1712\bin\Debug\netcoreapp3.1\Test1712.deps.json
+C:\Users\Marsh\source\repos\Test1712\Test1712\bin\Debug\netcoreapp3.1\Test1712.runtimeconfig.json
+C:\Users\Marsh\source\repos\Test1712\Test1712\bin\Debug\netcoreapp3.1\Test1712.runtimeconfig.dev.json
+C:\Users\Marsh\source\repos\Test1712\Test1712\bin\Debug\netcoreapp3.1\Test1712.dll
+C:\Users\Marsh\source\repos\Test1712\Test1712\bin\Debug\netcoreapp3.1\Test1712.pdb
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.csprojAssemblyReference.cache
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.AssemblyInfoInputs.cache
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.AssemblyInfo.cs
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.csproj.CoreCompileInputs.cache
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.dll
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.pdb
+C:\Users\Marsh\source\repos\Test1712\Test1712\obj\Debug\netcoreapp3.1\Test1712.genruntimeconfig.cache
