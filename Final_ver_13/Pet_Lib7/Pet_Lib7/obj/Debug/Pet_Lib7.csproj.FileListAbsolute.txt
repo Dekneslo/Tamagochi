@@ -1,0 +1,57 @@
+C:\Users\Dekneslo\Desktop\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_7 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+C:\Users\Marsh\Desktop\Lab8\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+C:\Users\Marsh\Desktop\Lab8\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+C:\Users\Marsh\Desktop\Lab8\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+C:\Users\Marsh\Desktop\Lab8\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+C:\Users\Marsh\Desktop\Lab8\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+D:\ЕМЕЛИНА 2 СЕМЕСТР\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+D:\ЕМЕЛИНА 2 СЕМЕСТР\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+D:\ЕМЕЛИНА 2 СЕМЕСТР\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.AssemblyReference.cache
+D:\ЕМЕЛИНА 2 СЕМЕСТР\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+D:\ЕМЕЛИНА 2 СЕМЕСТР\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+D:\ЕМЕЛИНА 2 СЕМЕСТР\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
+D:\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.dll
+D:\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\bin\Debug\Pet_Lib7.pdb
+D:\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.csproj.CoreCompileInputs.cache
+D:\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.dll
+D:\Final_ver_10 лаба\Pet_Lib7\Pet_Lib7\obj\Debug\Pet_Lib7.pdb
