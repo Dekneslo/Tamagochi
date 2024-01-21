@@ -1,0 +1,131 @@
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csprojAssemblyReference.cache
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+C:\Users\Marsh\Desktop\Lab8\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.AssemblyReference.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.AssemblyReference.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.SuggestedBindingRedirects.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Lab8\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_8 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe.config
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.exe
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Final_ver_8 лаб.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.dll
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\bin\Debug\Pet_Lib7.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.g.resources
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8_лаб.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Final_ver_9 лаба\Final_ver_8 лаб\Final_ver_8 лаб\obj\Debug\Final_ver_8 лаб.csproj.CopyComplete

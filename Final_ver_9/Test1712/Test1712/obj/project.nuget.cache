@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyCXGi/IxyWN8dZlofwwQ+CUVG1bJP6ci/5xnnkhgIN9oVb+5f2ygQxpHccAVTp3RWy8Gm8F5V9+yP03VKZhNg==",
+  "success": true,
+  "projectFilePath": "D:\\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\\Lab8\\Test1712\\Test1712\\Test1712.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user.UIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
