@@ -1,0 +1,111 @@
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe.config
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.pdb
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Home_Pet_Kim13.dll
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Home_Pet_Kim13.pdb
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.g.resources
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+C:\Users\Dekneslo\Desktop\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe.config
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.pdb
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Home_Pet_Kim13.pdb
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.baml
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.g.resources
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.Properties.Resources.resources
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.GenerateResource.cache
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CoreCompileInputs.cache
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CopyComplete
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+D:\лаба3\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb
+D:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_Content.g.cs
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.SuggestedBindingRedirects.cache
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_Content.g.cs
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+F:\лаба3 библиотека и тамагочи\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe.config
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.pdb
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Pet_Library.dll
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Home_Pet_Kim13.pdb
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Pet_Library.pdb
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.baml
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.g.resources
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.Properties.Resources.resources
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.GenerateResource.cache
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CoreCompileInputs.cache
+G:\Багдан\Documents\Code\деша\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe.config
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.pdb
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Pet_Library.dll
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Home_Pet_Kim13.pdb
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Pet_Library.pdb
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.g.resources
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+C:\Users\Dekneslo\Desktop\Final_ver\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe.config
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Тамагочи_Lab3_Kim.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Home_Pet_Kim13.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\bin\Debug\Pet_Library.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.g.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Final_ver\Тамагочи_Lab3_Kim\Тамагочи_Lab3_Kim\obj\Debug\Тамагочи_Lab3_Kim.pdb

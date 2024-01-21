@@ -1,0 +1,56 @@
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.exe.config
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.exe
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Pet_Lib4.dll
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Pet_Lib4.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.g.resources
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.exe
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.AssemblyReference.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\MainWindow.g.cs
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\App.g.cs
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.exe
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.exe.config
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.exe
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Pet_Lib4.dll
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Pet_Lib4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\MainWindow.baml
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.g.resources
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.GenerateResource.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.exe.config
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Laba_4.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Pet_Lib4.dll
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\bin\Debug\Pet_Lib4.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.g.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_4 лаба\Laba_4\Laba_4\obj\Debug\Laba_4.pdb
