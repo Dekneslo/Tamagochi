@@ -1,0 +1,75 @@
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe.config
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Pet_Lib4.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\App.g.cs
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.baml
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.g.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.GenerateResource.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CopyComplete
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.exe
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe.config
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Pet_Lib4.pdb
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.AssemblyReference.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.g.cs
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\App.g.cs
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.baml
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.g.resources
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.GenerateResource.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CopyComplete
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.exe
+D:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe.config
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Pet_Lib4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.AssemblyReference.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\App.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.baml
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.g.resources
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.GenerateResource.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CopyComplete
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.exe
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Pet_Lib4.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_5 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.SuggestedBindingRedirects.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.AssemblyReference.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.SuggestedBindingRedirects.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba6.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\App.g.cs
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4_MarkupCompile.lref
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.exe
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe.config
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.exe
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Laba_4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\MainWindow.baml
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba6.baml
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.g.resources
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.GenerateResource.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\obj\Debug\Laba_5.csproj.CopyComplete
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Pet_Lib6.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Laba_5\Laba_4\bin\Debug\Pet_Lib6.pdb

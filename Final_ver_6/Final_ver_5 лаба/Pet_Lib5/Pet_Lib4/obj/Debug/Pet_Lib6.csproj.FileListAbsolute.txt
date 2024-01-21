@@ -1,0 +1,6 @@
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Pet_Lib5\Pet_Lib4\bin\Debug\Pet_Lib4.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Pet_Lib5\Pet_Lib4\bin\Debug\Pet_Lib4.pdb
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Pet_Lib5\Pet_Lib4\obj\Debug\Pet_Lib6.csproj.AssemblyReference.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Pet_Lib5\Pet_Lib4\obj\Debug\Pet_Lib6.csproj.CoreCompileInputs.cache
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Pet_Lib5\Pet_Lib4\obj\Debug\Pet_Lib4.dll
+F:\ЛАБА ЕМЕЛИНА НА ПН ГОТОВ\Final_ver_6 лаба\Final_ver_5 лаба\Pet_Lib5\Pet_Lib4\obj\Debug\Pet_Lib4.pdb

@@ -1,0 +1,12 @@
+C:\Users\Dekneslo\Desktop\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Pet_Lib4\Pet_Lib4\bin\Debug\Pet_Lib4.dll
+C:\Users\Dekneslo\Desktop\Pet_Lib4\Pet_Lib4\bin\Debug\Pet_Lib4.pdb
+C:\Users\Dekneslo\Desktop\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.dll
+C:\Users\Dekneslo\Desktop\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Pet_Lib4\Pet_Lib4\bin\Debug\Pet_Lib4.dll
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Pet_Lib4\Pet_Lib4\bin\Debug\Pet_Lib4.pdb
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.dll
+C:\Users\Dekneslo\Desktop\Final_ver_4 лаба\Pet_Lib4\Pet_Lib4\obj\Debug\Pet_Lib4.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dekneslo\Desktop\Pet_Lib6\Pet_Lib6\bin\Debug\Pet_Lib6.dll
+C:\Users\Dekneslo\Desktop\Pet_Lib6\Pet_Lib6\bin\Debug\Pet_Lib6.pdb
+C:\Users\Dekneslo\Desktop\Pet_Lib6\Pet_Lib6\obj\Debug\Pet_Lib6.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Pet_Lib6\Pet_Lib6\obj\Debug\Pet_Lib6.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Pet_Lib6\Pet_Lib6\obj\Debug\Pet_Lib6.dll
+C:\Users\Dekneslo\Desktop\Pet_Lib6\Pet_Lib6\obj\Debug\Pet_Lib6.pdb
