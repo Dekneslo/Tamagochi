@@ -1,0 +1,17 @@
+C:\Users\Dekneslo\Desktop\Pet_Library\Pet_Library\bin\Debug\Pet_Library.dll
+C:\Users\Dekneslo\Desktop\Pet_Library\Pet_Library\bin\Debug\Pet_Library.pdb
+C:\Users\Dekneslo\Desktop\Pet_Library\Pet_Library\obj\Debug\Pet_Library.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Pet_Library\Pet_Library\obj\Debug\Pet_Library.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Pet_Library\Pet_Library\obj\Debug\Pet_Library.dll
+C:\Users\Dekneslo\Desktop\Pet_Library\Pet_Library\obj\Debug\Pet_Library.pdb
+G:\Багдан\Documents\Code\деша\Pet_Library\Pet_Library\bin\Debug\Pet_Library.dll
+G:\Багдан\Documents\Code\деша\Pet_Library\Pet_Library\bin\Debug\Pet_Library.pdb
+G:\Багдан\Documents\Code\деша\Pet_Library\Pet_Library\obj\Debug\Pet_Library.csproj.CoreCompileInputs.cache
+G:\Багдан\Documents\Code\деша\Pet_Library\Pet_Library\obj\Debug\Pet_Library.dll
+G:\Багдан\Documents\Code\деша\Pet_Library\Pet_Library\obj\Debug\Pet_Library.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_3 лаба\Final_ver\Pet_Library\Pet_Library\bin\Debug\Pet_Library.dll
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_3 лаба\Final_ver\Pet_Library\Pet_Library\bin\Debug\Pet_Library.pdb
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_3 лаба\Final_ver\Pet_Library\Pet_Library\obj\Debug\Pet_Library.csproj.AssemblyReference.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_3 лаба\Final_ver\Pet_Library\Pet_Library\obj\Debug\Pet_Library.csproj.CoreCompileInputs.cache
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_3 лаба\Final_ver\Pet_Library\Pet_Library\obj\Debug\Pet_Library.dll
+C:\Users\Dekneslo\Desktop\Емелина\Final_ver_3 лаба\Final_ver\Pet_Library\Pet_Library\obj\Debug\Pet_Library.pdb

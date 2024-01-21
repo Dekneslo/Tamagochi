@@ -1,0 +1,34 @@
+﻿<Window x:Class="Тамагочи_Lab3_Kim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Тамагочи_Lab3_Kim"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="897">
+    <Grid>
+        <Rectangle HorizontalAlignment="Center" Height="440" Margin="0,-6,0,0" VerticalAlignment="Top" Width="898" Fill="#FFB0F3FB"/>
+        <ProgressBar x:Name="PG_Satiety" HorizontalAlignment="Left" Height="49" Margin="196,168,0,0" VerticalAlignment="Top" Width="386" Foreground="#FF06B025" LargeChange="10" Value="50"/>
+        <Button x:Name="Button_Caress" Content="Приласкать" HorizontalAlignment="Left" Height="97" Margin="52,312,0,0" VerticalAlignment="Top" Width="97" Background="#FFD9CFFF" FontSize="14" Click="Button_Caress_Click" IsEnabled="False"/>
+        <Button x:Name="Button_Play" Content="Поиграть" HorizontalAlignment="Left" Height="97" Margin="196,312,0,0" VerticalAlignment="Top" Width="97" Background="#FFD9CFFF" FontSize="14" Click="Button_Play_Click" IsEnabled="False"/>
+        <Button x:Name="Button_Feed" Content="Покормить" HorizontalAlignment="Left" Height="97" Margin="334,312,0,0" VerticalAlignment="Top" Width="97" Background="#FFD9CFFF" FontSize="14" Click="Button_Feed_Click" IsEnabled="False"/>
+        <Button x:Name="Button_Train" Content="Дрессировать" HorizontalAlignment="Left" Height="97" Margin="475,312,0,0" VerticalAlignment="Top" Width="97" Background="#FFD9CFFF" FontSize="14" Click="Button_Train_Click" IsEnabled="False"/>
+        <ProgressBar x:Name="PG_Forces" HorizontalAlignment="Left" Height="49" Margin="196,239,0,0" VerticalAlignment="Top" Width="386" Foreground="#FF06B025" LargeChange="10" Value="50"/>
+        <ProgressBar x:Name="PG_Mood" HorizontalAlignment="Left" Height="49" Margin="196,98,0,0" VerticalAlignment="Top" Width="386" Foreground="#FF06B025" Maximum="100" LargeChange="10" Value="50"/>
+        <Label Content="Настроение" HorizontalAlignment="Left" Height="49" Margin="39,98,0,0" VerticalAlignment="Top" Width="132" FontSize="18"/>
+        <Label Content="Уров. сытости" HorizontalAlignment="Left" Height="49" Margin="39,168,0,0" VerticalAlignment="Top" Width="132" FontSize="18"/>
+        <Label Content="Силы" HorizontalAlignment="Left" Height="49" Margin="39,239,0,0" VerticalAlignment="Top" Width="132" FontSize="18"/>
+        <TextBox x:Name="TB_Name" HorizontalAlignment="Left" Height="49" Margin="196,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" FontSize="20"/>
+        <Label Content="Имя питомца" HorizontalAlignment="Left" Height="49" Margin="39,30,0,0" VerticalAlignment="Top" Width="132" FontSize="18"/>
+        <Button x:Name="Button_Relife" Content="Воскресить" HorizontalAlignment="Left" Height="97" Margin="647,312,0,0" VerticalAlignment="Top" Width="97" Background="#FFD9CFFF" FontSize="14" IsEnabled="True" Click="Button_Relife_Click"/>
+        <TextBox x:Name="TB_Mood" HorizontalAlignment="Left" Height="56" Margin="782,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="83" />
+        <Label x:Name="Label_mood" Content="Введите параметр &#xD;&#xA;настроения" HorizontalAlignment="Left" Height="44" Margin="632,54,0,0" VerticalAlignment="Top" Width="112"/>
+        <TextBox x:Name="TB_Satiety" HorizontalAlignment="Left" Height="56" Margin="782,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" />
+        <Label x:Name="Label_food" Content="Введите параметр &#xA;уров.сытости" HorizontalAlignment="Left" Height="44" Margin="632,134,0,0" VerticalAlignment="Top" Width="112"/>
+        <TextBox x:Name="TB_Forces" HorizontalAlignment="Left" Height="56" Margin="782,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="84" />
+        <Label x:Name="Label_force" Content="Введите параметр &#xA;силы" HorizontalAlignment="Left" Height="44" Margin="632,217,0,0" VerticalAlignment="Top" Width="112"/>
+        <Button x:Name="Button_Safe" Content="Сохранить" HorizontalAlignment="Left" Height="50" Margin="400,30,0,0" VerticalAlignment="Top" Width="140" FontSize="18" Click="Button_Safe_Click"/>
+        <Label x:Name="LRES_Mood" Content="" HorizontalAlignment="Left" Height="49" Margin="587,98,0,0" VerticalAlignment="Top" Width="45"/>
+
+    </Grid>
+</Window>
